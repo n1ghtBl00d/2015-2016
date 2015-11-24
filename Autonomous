@@ -1,2 +1,4 @@
 
+extern int a = 360; \\#360noScope
+
 askdfdsfdasff
